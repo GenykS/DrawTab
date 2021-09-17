@@ -15,6 +15,7 @@ body {
     font-size: 16px;
     color: honeydew;
     border-color: honeydew 1px;
+    box-shadow: 0 0 10px rgb(19, 80, 99);
     
   }
 

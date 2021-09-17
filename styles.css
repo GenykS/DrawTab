@@ -1,0 +1,85 @@
+body {
+    height: 100vh;
+  }
+  .btn_save{
+    width: fit-content;
+    margin: auto;
+  }
+  .save, .download{
+    margin-top: 10px;
+    margin-right: 20px;
+    background: rgb(19, 80, 99);
+    padding: 5px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 16px;
+    color: honeydew;
+    border-color: honeydew 1px;
+    
+  }
+
+  table {
+    border-collapse: collapse;
+    cursor: pointer;
+    /* border: 1px, solid, black; */
+    /* margin: auto; */
+  }
+  
+  td {
+     margin: 0px;
+     border: 1px solid grey;
+      /* border: solid; */
+      padding: 10px;
+    }
+  
+  .btn {
+    float: left;
+    align-content: center;
+    margin: 100px auto;
+    margin-left: 5%;
+    margin-right: 10%;
+    border: 1px, solid;
+    width: 20%;
+    height: 100%;
+  }
+  .btn_red {
+  border-radius: 5px;
+   margin: auto;
+   width: 40px;
+   height: 40px;
+   background-color: red;
+  }
+  
+  .btn_blue {
+     border-radius: 5px;
+     width: 40px;
+     height: 40px;
+   background-color: blue;
+  }
+  
+  .btn_green {
+     border-radius: 5px;
+     width: 40px;
+     height: 40px;
+   background-color: green;
+  }
+  
+  .btn_yellow {
+    border-radius: 5px;
+    width: 40px;
+    height: 40px;
+   background-color: yellow;
+  }
+  
+  .red {
+    background: red;
+  }
+  .blue {
+    background: blue;
+  }
+  .green {
+    background: green;
+  }
+  .yellow {
+    background: yellow;
+  }
